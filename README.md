@@ -1,7 +1,4 @@
-1. GitHub README File
-markdown
-Copy
-Edit
+
 # File Storage App
 
 A simple file storage application built with [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Multer](https://github.com/expressjs/multer), and [EJS](https://ejs.co/). This app allows users to upload files, view them with custom icons based on file type, and delete files from the server. It's a great starting point for learning file management in a Node.js environment.
